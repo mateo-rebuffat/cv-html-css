@@ -1,0 +1,27 @@
+body {
+    background-color: #051923;
+    color: #90BE6D;
+}
+
+header {
+    background-color: #3D7068;
+    color: #3DFAFF;
+}
+
+section {
+    background-color: #48BEFF;
+    color: #051923;
+}
+
+footer {
+    background-color: #3D7068;
+    color: #3DFAFF;
+}
+
+img {
+    width: 100px; /* largeur des images à 100 pixels */
+}
+
+h1 {
+    font-size: 48px; /* taille du titre */
+}
